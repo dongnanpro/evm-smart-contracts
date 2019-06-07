@@ -2,7 +2,10 @@
 Open source repository of EVM Smart Contracts.
 
 ## Folder Structure
-Due to the 1000 folder size limitations on Github pagination folders were created which contain 1000 contracts per folder. 
+Due to the folder size limitations of 1000 contracts per folder, pagination folders were created with the `./contracts` folder. These paginated folders appear as:
+  * 1
+  * 2
+  * 3
 
 ## Example
 
