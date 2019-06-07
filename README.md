@@ -7,7 +7,7 @@ Due to the folder size limitations of 1000 contracts per folder, pagination fold
   * 2
   * 3
 
-## Example
+## Smart Contract Example
 
 ```
 {
