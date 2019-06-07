@@ -1,6 +1,9 @@
 # evm-smart-contracts
 Open source repository of EVM Smart Contracts.
 
+## Folder Structure
+Due to the 1000 folder size limitations on Github pagination folders were created which contain 1000 contracts per folder. 
+
 ## Example
 
 ```
